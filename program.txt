@@ -9,3 +9,5 @@ function show(qq){
   alert(qq)
 }
 var showshow= new show(88)
+
+add ct002
