@@ -4,3 +4,7 @@ Main(){
 abb
 add acc
 add add
+
+function show(){
+  alert(99)
+}
