@@ -7,12 +7,12 @@ add add
 add ctct
   alert(qq)
 }
-function show003(xx){
+function show004(xx){
   alert(xx)
 }
 function show(xx){
   alert(xx)
 }
 var showshow= new show(88)
-
+add ct000
 add ct002
