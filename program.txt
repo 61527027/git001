@@ -5,7 +5,7 @@ abb
 add acc
 add add
 add ctct
-function show(qq){
-  alert(qq)
+function show(yy){
+  alert(yy)
 }
 var showshow= new show(88)
