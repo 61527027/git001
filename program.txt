@@ -5,9 +5,10 @@ abb
 add acc
 add add
 add ctct
+  alert(qq)
+}
 function show(xx){
   alert(xx)
-}
-var showshow= new show(88)
+}var showshow= new show(88)
 
 add ct002
