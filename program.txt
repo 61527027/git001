@@ -9,6 +9,10 @@ add ctct
 }
 function show(xx){
   alert(xx)
-}var showshow= new show(88)
+}
+function show002(xx){
+  alert(xx)
+}
+var showshow= new show(88)
 
 add ct002
