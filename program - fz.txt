@@ -13,12 +13,9 @@ function show003(xx){
 function show(xx){
   alert(xx)
 }
-<<<<<<< HEAD
-=======
+
 function show002(xx){
   alert(xx)
 }
->>>>>>> 8aafbb885d43e5135e3e516d6f1b2b85ebab406f
-var showshow= new show(88)
 
 add ct002
