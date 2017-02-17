@@ -7,7 +7,8 @@ add add
 add ctct
   alert(qq)
 }
-function show004(xx){
+
+function show005(xx){
   alert(xx)
 }
 function show(xx){
